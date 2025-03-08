@@ -1,0 +1,13 @@
+header {
+  padding: 0.8rem 0;
+}
+
+.light {
+  background-color: white;
+  color: #032753;
+}
+
+.dark {
+  background-color: #202938;
+  color: white;
+}

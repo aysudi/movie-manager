@@ -1,0 +1,16 @@
+.login-light-box {
+  background-color: #f9fafc;
+  color: #062f4a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 94vh;
+}
+
+.login-dark-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #121828;
+  height: 94vh;
+}

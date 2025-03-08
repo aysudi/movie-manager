@@ -1,0 +1,88 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "The Fall",
+      "imdb": "7.6",
+      "genre": "Adventure",
+      "release_year": "2006"
+    },
+    {
+      "id": "2",
+      "title": "Moon",
+      "imdb": 7.8,
+      "genre": "Sci-Fi",
+      "release_year": 2009
+    },
+    {
+      "id": "3",
+      "title": "A Ghost Story",
+      "imdb": 6.9,
+      "genre": "Drama",
+      "release_year": 2017
+    },
+    {
+      "id": "4",
+      "title": "Coherence",
+      "imdb": 7.2,
+      "genre": "Sci-Fi",
+      "release_year": 2013
+    },
+    {
+      "id": "5",
+      "title": "Enemy",
+      "imdb": 6.9,
+      "genre": "Mystery",
+      "release_year": 2013
+    },
+    {
+      "id": "6",
+      "title": "The Man from Earth",
+      "imdb": 7.9,
+      "genre": "Sci-Fi",
+      "release_year": 2007
+    },
+    {
+      "id": "7",
+      "title": "Under the Skin",
+      "imdb": 6.3,
+      "genre": "Horror",
+      "release_year": 2013
+    },
+    {
+      "id": "8",
+      "title": "Upgrade",
+      "imdb": 7.5,
+      "genre": "Action",
+      "release_year": 2018
+    },
+    {
+      "id": "9",
+      "title": "The Handmaiden",
+      "imdb": 8.1,
+      "genre": "Drama",
+      "release_year": 2016
+    },
+    {
+      "id": "10",
+      "title": "Swiss Army Man",
+      "imdb": 7,
+      "genre": "Comedy",
+      "release_year": 2016
+    },
+    {
+      "id": "8a2f",
+      "imdb": "5.9",
+      "release_year": "1980",
+      "title": "The Blue Lagoon",
+      "genre": "Adventure"
+    },
+    {
+      "id": "a2e5",
+      "genre": "Action",
+      "title": "Avatar the Last Airbender",
+      "release_year": "2005",
+      "imdb": "9.3"
+    }
+  ]
+}
